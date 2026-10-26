@@ -14,7 +14,7 @@ The most useful things in the toolkit right now:
 
 | Name | What it does | Type |
 |------|--------------|------|
-| [Name](skills/name) | [One line: what you give it, what you get back] | Skill |
+| [3D assembly manual](skills/3d-assembly-manual) | Describe a build, install or repair and get back one HTML file: a phone-first 3D step-by-step guide. | Skill |
 | [Name](prompts/name) | [One line] | Prompt |
 | [Name](workflows/name) | [One line] | Workflow |
 
