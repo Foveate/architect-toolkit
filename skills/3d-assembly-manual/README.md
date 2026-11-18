@@ -44,6 +44,11 @@ Zip this folder and upload it in your Claude settings under skills.
 The skill is `SKILL.md`. `starter.html` is the engine it copies and fills in,
 so keep the two files together.
 
+**One file instead**
+`3d-assembly-manual.md` is the same skill with `starter.html` appended inside
+it, for sharing or downloading as a single file. Its first lines explain how to
+split it back into `SKILL.md` and `starter.html`.
+
 ## Good to know
 
 - It is a drawing, not a construction document. Dimensions come from what you
